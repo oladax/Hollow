@@ -7,17 +7,13 @@ from concurrent.futures import ThreadPoolExecutor
 
 # ASCII Banner
 BANNER = """
- ▄██████▄   ▄█          ▄████████ ████████▄     ▄████████ ▀████    ▐████▀ 
-███    ███ ███         ███    ███ ███   ▀███   ███    ███   ███▌   ████▀  
-███    ███ ███         ███    ███ ███    ███   ███    ███    ███  ▐███    
-███    ███ ███         ███    ███ ███    ███   ███    ███    ▀███▄███▀    
-███    ███ ███       ▀███████████ ███    ███ ▀███████████    ████▀██▄     
-███    ███ ███         ███    ███ ███    ███   ███    ███   ▐███  ▀███    
-███    ███ ███▌    ▄   ███    ███ ███   ▄███   ███    ███  ▄███     ███▄  
- ▀██████▀  █████▄▄██   ███    █▀  ████████▀    ███    █▀  ████       ███▄ 
-           ▀                                                              
+▗▖ ▗▖ ▗▄▖ ▗▖   ▗▖    ▗▄▖ ▗▖ ▗▖
+▐▌ ▐▌▐▌ ▐▌▐▌   ▐▌   ▐▌ ▐▌▐▌ ▐▌
+▐▛▀▜▌▐▌ ▐▌▐▌   ▐▌   ▐▌ ▐▌▐▌ ▐▌
+▐▌ ▐▌▝▚▄▞▘▐▙▄▄▖▐▙▄▄▖▝▚▄▞▘▐▙█▟▌
+                                                     
+This tool is intended for educational and security research purposes only.Unauthorized use against websites you don't own is illegal.
 Made by Oladax - Bug Bounty Edition
-This script is for educational purposes only.
 """
 
 # Rotating User-Agents to bypass blocks
