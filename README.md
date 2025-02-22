@@ -14,6 +14,16 @@ Hollow is a Python-based tool for discovering API endpoints on a target website.
 - Fuzzing integration with a customizable wordlist.
 - Saves results for easy reference.
 
+#### 📌 Usage
+- python3 Hollow.py
+
+##### 🎯 Example
+- Enter the target domain (e.g., example.com): target.com
+
+###### 📝 Disclaimer
+- This tool is intended for educational and security research purposes only. Unauthorized use against websites you don't own is illegal.
+
+  
 ## 🛠 Installation
 ```bash
 git clone https://github.com/oladax/Hollow.git
